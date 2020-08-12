@@ -2,7 +2,7 @@
 
 # Convolutional neural networks
 
-###### ! orange 卷积运算可以检测图像边缘
+###### 卷积运算可以检测图像边缘
 
 <img src="https://i.loli.net/2020/08/10/yUGLNm951a6iqoh.png" alt="image-20200730101300765" style="zoom:50%;" />
 
