@@ -41,7 +41,7 @@
 
 <img src="https://i.loli.net/2020/08/10/j6KNYOUVoBFSdMT.png" alt="image-20200801101609748" style="zoom: 33%;" />
 
-###### ==$1\times1$卷积层的作用==
+###### ==$1\times 1$卷积层的作用==
 
 1. 减少通道数，从而降低模型复杂度
 
@@ -152,6 +152,8 @@ $$
 
 ![image-20200810115519001](C:\Users\叁铈化硫\AppData\Roaming\Typora\typora-user-images\image-20200810115519001.png)
 
-![attn_model](https://i.loli.net/2020/08/10/MG5Tulr9zKp1wUd.png)
+**注意力机制**
 
-![img](https://olxddycnsyshfcydqybjvt.coursera-apps.org/notebooks/Week 3/Machine Translation/images/attn_mechanism.png)
+<img src="https://i.loli.net/2020/08/10/MG5Tulr9zKp1wUd.png" alt="attn_model" style="zoom: 50%;" />
+
+<img src="https://i.loli.net/2020/08/10/UlQBzhmSFPwqNGr.png" alt="img" style="zoom: 67%;" />
